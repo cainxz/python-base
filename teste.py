@@ -1,1 +1,1 @@
-print ("hello, world!")
+print ("meu amigo é gay")
