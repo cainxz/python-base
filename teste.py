@@ -1,1 +1,1 @@
-print ("meu amigo é gay")
+print ("meu amigo é gayaaaaaa")
