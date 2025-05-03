@@ -21,6 +21,5 @@ __author__= "kaio"
 __license__= "Unlicense"
 
 
-#em baixo temos um comando chamado print que escreve o que for colocado dentro da chave e aspas
-
-print ("meu amigo é gayaaaaassssssssssssasssssssssssssssssssssssssssssssssssssssssa")
+if __name__ =="__main__":
+   print ("teste")
