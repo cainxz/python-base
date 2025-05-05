@@ -20,6 +20,19 @@ __version__ = "0.0.1"
 __author__= "kaio"
 __license__= "Unlicense"
 
+import os 
 
-if __name__ =="__main__":
-   print ("teste")
+
+current_language = os.getenv("LANG")
+msg = "Hello, world!" 
+
+if current_language == "pt_BR":
+    msg= "Olá, Mundo!" 
+
+elif current_language == "it_IT":     
+   msg= "Ciao, mondo!"
+
+
+
+
+print(msg)
