@@ -32,7 +32,8 @@ if current_language == "pt_BR":
 elif current_language == "it_IT":     
    msg= "Ciao, mondo!"
 
-
-
-
 print(msg)
+
+print ("testezim")
+
+print
