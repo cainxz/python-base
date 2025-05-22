@@ -6,6 +6,7 @@ dependendo da lingua configurada no ambiente o programa exibe a mensagem corresp
 
 como usar: 
 
+
 tenha a variavel lang devidamente coonfigurada ex: 
 
     export LANG=pt_BR
