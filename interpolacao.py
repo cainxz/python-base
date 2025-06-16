@@ -1,4 +1,4 @@
- email_tmpl = """
+email_tmpl = """
    ...: olá, %(nome)s
    ...:
    ...: tem interesse em comprar %(produto)s?
